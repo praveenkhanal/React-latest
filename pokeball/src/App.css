@@ -1,0 +1,30 @@
+.app {
+  width: 500px;
+  padding: 0 20px 30px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul.fire{
+  background-color:lightsalmon;
+
+
+}
+ul.water{
+  background-color:skyblue;
+
+  
+}
+ul.grass{
+  background-color:lightgreen;
+  
+}
+
+li {
+  list-style: none;
+  color: #444;
+  margin-bottom: 3px;
+  padding: 3px 5px;
+}
